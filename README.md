@@ -1,3 +1,5 @@
+<img width="1183" height="1330" alt="image" src="https://github.com/user-attachments/assets/ebaa8a62-533c-42b6-a037-d75389ae7e4b" />
+<img width="1183" height="1330" alt="image" src="https://github.com/user-attachments/assets/65157ad8-abc4-43ba-8b33-8ce767065e0b" />
 ## smart-blind-stick
 An assistive technology project designed to help visually impaired individuals navigate safely 
 
